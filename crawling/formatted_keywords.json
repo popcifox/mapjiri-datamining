@@ -1,0 +1,2626 @@
+[
+    {
+        "dong": "오정동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "오정동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "대화동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "회덕동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "비래동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "송촌동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "중리동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "법1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "법2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "신탄진동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "석봉동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "덕암동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "목상동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "중앙동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "신인동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "효동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "효동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "효동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "효동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "효동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "효동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "효동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "효동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "판암1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "판암2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "용운동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "대동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "대동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "대동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "대동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "대동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "대동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "대동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "대동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "자양동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "가양1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "가양2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "용전동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "성남동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "홍도동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "삼성동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "대청동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "산내동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "복수동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "도마1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "도마2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "정림동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "변동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "변동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "변동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "변동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "변동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "변동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "변동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "변동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "용문동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "탄방동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "둔산1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "둔산2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "둔산3동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "괴정동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "가장동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "내동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "내동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "내동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "내동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "내동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "내동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "내동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "내동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "갈마1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "갈마2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "월평1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "월평2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "월평3동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "만년동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "가수원동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "도안동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "관저1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "관저2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "기성동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "진잠동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "학하동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "원신흥동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "상대동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "온천1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "온천2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "노은1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "노은2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "노은3동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "신성동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "전민동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "구즉동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "관평동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "은행선화동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "목동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "목동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "목동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "목동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "목동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "목동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "목동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "목동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "중촌동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "대흥동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "문창동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "석교동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "대사동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "부사동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "용두동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "오류동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "태평1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "태평2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "유천1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "유천2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "문화1동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "문화2동",
+        "keyword": "마라탕"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "파스타"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "스테이크"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "찌개"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "백반"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "치킨"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "짜장"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "짬뽕"
+    },
+    {
+        "dong": "산성동",
+        "keyword": "마라탕"
+    }
+]
