@@ -4,22 +4,20 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 # 웹드라이버 설정
 options = webdriver.ChromeOptions()
-options.add_argument("--start-maximized")  # 창 최대화
+options.add_argument("--start-maximized")
 driver = webdriver.Chrome(options=options)
 
 # 카카오맵 접속
 driver.get("https://map.kakao.com/")
 
 district = "장대동"
-menu = "짜장면"
+menu = "쌀국수"
 
 search_query = f"대전 {district} {menu}"
-
 
 # 검색 실행
 input_tag = driver.find_element(By.ID, "search.keyword.query")
@@ -27,21 +25,21 @@ input_tag.send_keys(search_query)
 input_tag.send_keys(Keys.RETURN)
 time.sleep(2)
 
-# '장소 더보기' 버튼 클릭 (이거 눌러야 페이지 버튼이 나옴)
+# '장소 더보기' 버튼 클릭
 try:
     more_button = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.ID, "info.search.place.more")))
     driver.execute_script("arguments[0].click();", more_button)
     time.sleep(3)
-except Exception as e:
-    print(f"Error clicking '장소 더보기': {e}")
+except:
+    pass
 
-# '1페이지' 버튼 클릭 (다시 처음부터 시작하도록 설정)
+# '1페이지' 버튼 클릭
 try:
     first_page_button = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.ID, "info.search.page.no1")))
     driver.execute_script("arguments[0].click();", first_page_button)
     time.sleep(3)
-except Exception as e:
-    print(f"Error clicking '1페이지': {e}")
+except:
+    pass
 
 # 크롤링 데이터 저장 리스트
 restaurants = []
@@ -81,25 +79,24 @@ def scrape_restaurant():
         try:
             while True:
                 try:
-                    # 더보기 버튼 찾기 (리뷰 개수에 따라 XPath 다르게 처리)
+                    # 더보기 버튼 찾기
                     try:
-                        more_button = driver.find_element(By.XPATH, '//*[@id="mArticle"]/div[8]/div[3]/a')  # 리뷰 많은 경우
+                        more_button = driver.find_element(By.XPATH, '//*[@id="mArticle"]/div[8]/div[3]/a')
                     except:
                         try:
-                            more_button = driver.find_element(By.XPATH, '//*[@id="mArticle"]/div[7]/div[3]/a')  # 리뷰 적은 경우
+                            more_button = driver.find_element(By.XPATH, '//*[@id="mArticle"]/div[7]/div[3]/a')
                         except:
-                            more_button = None  # 더보기 버튼이 없을 경우
+                            more_button = None
 
                     if more_button:
                         if "후기 접기" in more_button.text:
-                            break  # 모든 리뷰가 로드된 경우 종료
+                            break
                         driver.execute_script("arguments[0].click();", more_button)
                         time.sleep(2)
                     else:
-                        break  # 더보기 버튼이 아예 없으면 종료
-
+                        break
                 except:
-                    break  # 더 이상 리뷰가 없으면 종료
+                    break
 
             review_elements = driver.find_elements(By.CSS_SELECTOR, "ul.list_evaluation > li")
             for review in review_elements[:50]:
@@ -124,7 +121,6 @@ def scrape_restaurant():
                     })
                 except:
                     continue
-
         except:
             reviews = None
 
@@ -140,14 +136,23 @@ def scrape_restaurant():
         driver.switch_to.window(driver.window_handles[0])
         time.sleep(2)
 
-    except Exception as e:
-        print(f"Error processing store: {e}")
+    except:
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
 
-# 1~3페이지 크롤링
-for current_page in range(1, 4):
-    print(f"{current_page}페이지 크롤링 시작")
+# 최대 페이지 수 확인
+try:
+    pagination = driver.find_elements(By.XPATH, '//div[@id="info.search.page"]//a[contains(@id, "info.search.page.no")]')
+    page_numbers = [int(p.text.strip()) for p in pagination if p.text.strip().isdigit()]
+    max_page = max(page_numbers) if page_numbers else 1
+except:
+    max_page = 1
+
+# 최대 3페이지까지만 크롤링 제한
+max_page = min(max_page, 3)
+
+# 1~max_page 페이지 크롤링
+for current_page in range(1, max_page + 1):
     try:
         WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.XPATH, '//*[@id="info.search.place.list"]/li'))
@@ -164,29 +169,23 @@ for current_page in range(1, 4):
                 continue
 
         # 다음 페이지 이동
-        if current_page < 3:
+        if current_page < max_page:
             try:
                 next_page_button = driver.find_element(By.ID, f"info.search.page.no{current_page + 1}")
                 driver.execute_script("arguments[0].click();", next_page_button)
                 time.sleep(3)
             except:
-                print(f"{current_page + 1} 페이지 이동 실패")
                 break
-
-    except Exception as e:
-        print(f"Error during pagination: {e}")
+    except:
         break
 
-filename = f"{search_query.replace(' ', '_')}.json"
-
 # JSON 저장
+filename = f"{search_query.replace(' ', '_')}.json"
 if restaurants:
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(restaurants, f, ensure_ascii=False, indent=4)
-    print("JSON 저장 완료: {filename}")
 else:
     print("저장할 데이터가 없습니다.")
 
 # 드라이버 종료
 driver.quit()
-print("크롤링 완료.")
