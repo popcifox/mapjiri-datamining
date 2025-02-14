@@ -15,9 +15,14 @@ driver = webdriver.Chrome(options=options)
 # 카카오맵 접속
 driver.get("https://map.kakao.com/")
 
+district = "장대동"
+menu = "짜장면"
+
+search_query = f"대전 {district} {menu}"
+
+
 # 검색 실행
 input_tag = driver.find_element(By.ID, "search.keyword.query")
-search_query = "대전 장대동 일식"
 input_tag.send_keys(search_query)
 input_tag.send_keys(Keys.RETURN)
 time.sleep(2)
@@ -140,8 +145,8 @@ def scrape_restaurant():
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
 
-# 1~5페이지 크롤링
-for current_page in range(1, 6):
+# 1~3페이지 크롤링
+for current_page in range(1, 4):
     print(f"{current_page}페이지 크롤링 시작")
     try:
         WebDriverWait(driver, 10).until(
@@ -159,7 +164,7 @@ for current_page in range(1, 6):
                 continue
 
         # 다음 페이지 이동
-        if current_page < 5:
+        if current_page < 3:
             try:
                 next_page_button = driver.find_element(By.ID, f"info.search.page.no{current_page + 1}")
                 driver.execute_script("arguments[0].click();", next_page_button)
@@ -172,11 +177,13 @@ for current_page in range(1, 6):
         print(f"Error during pagination: {e}")
         break
 
+filename = f"{search_query.replace(' ', '_')}.json"
+
 # JSON 저장
 if restaurants:
-    with open("대전_장대동_짜장면.json", "w", encoding="utf-8") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(restaurants, f, ensure_ascii=False, indent=4)
-    print("JSON 저장 완료: 대전_장대동_짜장면.json")
+    print("JSON 저장 완료: {filename}")
 else:
     print("저장할 데이터가 없습니다.")
 
