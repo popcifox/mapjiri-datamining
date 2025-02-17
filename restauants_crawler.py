@@ -57,6 +57,14 @@ def scrape_restaurant():
         except:
             store_name = "가게 정보 없음"
 
+        # 가게 주소명
+        try:
+            place_name = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.XPATH, '//*[@id="mArticle"]/div[1]/div[2]/div[1]/div/span[1]'))
+            ).text.strip()
+        except:
+            place_name = "주소 정보 없음"
+
         # 추천 포인트 크롤링
         try:
             tag_list = {}
@@ -121,8 +129,9 @@ def scrape_restaurant():
         # 데이터 저장
         restaurants.append({
             "name": store_name,
+            "place_name": place_name,
             "tag": tag_list,
-            "reviews": reviews
+            "reviews": reviews,
         })
 
         driver.close()
