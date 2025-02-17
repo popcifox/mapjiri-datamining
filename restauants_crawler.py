@@ -57,12 +57,6 @@ def scrape_restaurant():
         except:
             store_name = "가게 정보 없음"
 
-        # 시설 정보
-        try:
-            facility_info = driver.find_element(By.CLASS_NAME, "placeinfo_facility").text
-        except:
-            facility_info = "시설 정보 없음"
-
         # 추천 포인트 크롤링
         try:
             tag_list = {}
@@ -127,7 +121,6 @@ def scrape_restaurant():
         # 데이터 저장
         restaurants.append({
             "name": store_name,
-            "facility_info": facility_info,
             "tag": tag_list,
             "reviews": reviews
         })
